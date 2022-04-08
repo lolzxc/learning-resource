@@ -5,7 +5,7 @@ This is just a compilation of resources that I am using for learning Android Dev
 * Figma Mobile Design - https://www.youtube.com/watch?v=PeGfX7W1mJk
 
 ### UI References
-- [Behance](behance.net)
-- [Dribbble](dribbble.com)
-- [Pinterest](pinterest.com)
+- [Behance](https://behance.net)
+- [Dribbble](https://dribbble.com)
+- [Pinterest](https://pinterest.com)
 
