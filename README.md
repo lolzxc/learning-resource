@@ -9,3 +9,6 @@ This is just a compilation of resources that I am using for learning Android Dev
 - [Dribbble](https://dribbble.com)
 - [Pinterest](https://pinterest.com)
 
+### Logos
+
+- [Font Awesome](https://fontawesome.com)
