@@ -12,3 +12,6 @@ This is just a compilation of resources that I am using for learning Android Dev
 ### Logos
 
 - [Font Awesome](https://fontawesome.com)
+
+### Illustrations
+- [Undraw](https://undraw.co)
